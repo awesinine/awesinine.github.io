@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Ryan Morten
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+[G+](https://plus.google.com/u/0/102893469603627997420/about), [LinkedIn](http://www.linkedin.com/in/ryanmorten), [GitHub](https://awesinine.github.io)
 &mdash;
-this site is [open source]({{ site.source_link }})
 
