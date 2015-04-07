@@ -6,4 +6,17 @@ fa-icon: calendar
 ---
 
 #### Learn to Code La
-    Ever wanted to learn how to code?  Are you in LA?  Well then join me!  I host an open study session on Thursdays for [Learn to Code LA](http://www.meetup.com/LearnToCodeLA).  I'm also an assistant orginizer and admin for our [Slack](http://learntocodela.slack.com).  We're growing a community of people to learn and teach coding.  Interested in participating?  Join the meetup for more information!
+    
+##If You've ever wanted to learn how to code 
+Well then, nothing is stopping you: **JOIN US WHILE WE LEARN!**
+
+{:.center}
+As an assistant orginizer and admin for our [Slack](http://learntocodela.slack.com), I help augment our ongoing weekly meetup topics by hosting an open study session on Thursdays.  
+
+{:.center}
+Our ultimate goal: To grow a community of people continually teaching and learning _problem solving_ through _social_ coding. 
+
+Interested in participating?  Don't worrry, we're all beginners!
+
+
+####Join the [meetup for more information](http://www.meetup.com/LearnToCodeLA)!
