@@ -6,4 +6,7 @@ fa-icon: book
 ---
 
 #### Philosophy
-    Coming soon!
+
+<div class="icontain">
+  <iframe src="//www.youtube.com/embed/ERbvKrH-GC4" allowfullscreen></iframe>
+</div>
