@@ -1,6 +1,6 @@
 ---
 title: "Learn to Code LA"
-bg: white #defined in _config.yml, can use html color like '#0fbfcf'
+bg: red #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
 fa-icon: calendar
 ---
