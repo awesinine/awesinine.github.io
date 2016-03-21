@@ -1,12 +1,14 @@
 ---
-title: "Philosophy"
+title: "Into the center of the Labyrinth"
 bg: black #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: book
 ---
 
-#### Philosophy
+#### Into the center of the Labyrinth
 
-<div class="icontain">
-  <iframe src="//www.youtube.com/embed/ERbvKrH-GC4" allowfullscreen></iframe>
-</div>
+Follow me on my journey into this years [Labyrinth Masquerade Ball](http://labyrinthmasquerade.com/).  
+
+details of the project tbd
+Keep up to date via medium [awesinine](https://medium.com/@awesinine)
+Code examples here
